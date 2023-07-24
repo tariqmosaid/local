@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.sayidaty.net	TRUE	/	FALSE	1999999999	__cf_bm	QaSA9POa.uwPDd3e8zL2CU9Kpilw.HP.tyLTENQ2M6I-1690188860-0-Aa0+kq/hGDzHyKK7NxSxNraJkAqrmxLz99/18te1vpOlfE3d21VV19N2OzUJkg3WDiit0RSawPIpRgjKDYeBLvM=
-
