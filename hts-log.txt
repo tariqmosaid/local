@@ -1,0 +1,82 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 24 Jul 2023 01:51:41 at http://localhost/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*http://localhost/*
+(winhttrack -WC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A40000%f0#f -F  -%F  -%l "en, *" http://localhost/ -O1 "C:\My Web Sites\LOCAL 2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*http://localhost/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:51:42	Warning: 	Note: due to localhost remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+01:53:01	Warning: 	File not parsed, looks like binary: https://gmpg.org/xfn/11
+01:53:44	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://gmpg.org/xfn/11 -> C:/My Web Sites/LOCAL 2/gmpg.org/xfn/11.0.delayed
+01:53:44	Warning: 	link is probably looping, type unknown, aborting: https://gmpg.org/xfn/11
+01:53:46	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://gmpg.org/xfn/11 -> C:/My Web Sites/LOCAL 2/gmpg.org/xfn/11.0.delayed
+01:53:46	Warning: 	link is probably looping, type unknown, aborting: https://gmpg.org/xfn/11
+01:53:47	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://gmpg.org/xfn/11 -> C:/My Web Sites/LOCAL 2/gmpg.org/xfn/11.0.delayed
+01:53:47	Warning: 	link is probably looping, type unknown, aborting: https://gmpg.org/xfn/11
+01:53:49	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://gmpg.org/xfn/11 -> C:/My Web Sites/LOCAL 2/gmpg.org/xfn/11.0.delayed
+01:53:49	Warning: 	link is probably looping, type unknown, aborting: https://gmpg.org/xfn/11
+01:53:50	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://gmpg.org/xfn/11 -> C:/My Web Sites/LOCAL 2/gmpg.org/xfn/11.0.delayed
+01:53:50	Warning: 	link is probably looping, type unknown, aborting: https://gmpg.org/xfn/11
+01:53:51	Warning: 	Found for localhost/?random-post=1
+01:53:51	Warning: 	File has moved from localhost/?random-post=1 to http://localhost/2023/07/23/peolpe-above-50-years/
+01:53:51	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://gmpg.org/xfn/11 -> C:/My Web Sites/LOCAL 2/gmpg.org/xfn/11.0.delayed
+01:53:51	Warning: 	link is probably looping, type unknown, aborting: https://gmpg.org/xfn/11
+01:54:03	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://gmpg.org/xfn/11 -> C:/My Web Sites/LOCAL 2/gmpg.org/xfn/11.0.delayed
+01:54:03	Warning: 	link is probably looping, type unknown, aborting: https://gmpg.org/xfn/11
+01:54:12	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://gmpg.org/xfn/11 -> C:/My Web Sites/LOCAL 2/gmpg.org/xfn/11.0.delayed
+01:54:12	Warning: 	link is probably looping, type unknown, aborting: https://gmpg.org/xfn/11
+01:54:26	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://gmpg.org/xfn/11 -> C:/My Web Sites/LOCAL 2/gmpg.org/xfn/11.0.delayed
+01:54:26	Warning: 	link is probably looping, type unknown, aborting: https://gmpg.org/xfn/11
+01:54:35	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://gmpg.org/xfn/11 -> C:/My Web Sites/LOCAL 2/gmpg.org/xfn/11.0.delayed
+01:54:35	Warning: 	link is probably looping, type unknown, aborting: https://gmpg.org/xfn/11
+01:54:50	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://gmpg.org/xfn/11 -> C:/My Web Sites/LOCAL 2/gmpg.org/xfn/11.0.delayed
+01:54:50	Warning: 	link is probably looping, type unknown, aborting: https://gmpg.org/xfn/11
+01:55:07	Error: 	"Not Found" (404) at link localhost/wp-content/themes/jannah/assets/ilightbox/dark-skin/ilightbox/closedhand.cur (from localhost/wp-content/themes/jannah/assets/ilightbox/dark-skin/skin.css?ver=6.3.0)
+01:55:07	Warning: 	Found for localhost/category/home/?random-post=1
+01:55:07	Warning: 	File has moved from localhost/category/home/?random-post=1 to http://localhost/2023/07/24/ia-and-facebook/
+01:55:07	Warning: 	Found for localhost/category/news/?random-post=1
+01:55:07	Warning: 	File has moved from localhost/category/news/?random-post=1 to http://localhost/2023/07/24/advice-for-people/
+01:55:07	Warning: 	Found for localhost/category/taqafa/?random-post=1
+01:55:07	Warning: 	File has moved from localhost/category/taqafa/?random-post=1 to http://localhost/2023/07/24/ia-and-facebook/
+01:55:07	Warning: 	Found for localhost/category/sport/?random-post=1
+01:55:07	Warning: 	File has moved from localhost/category/sport/?random-post=1 to http://localhost/2023/07/24/advice-for-people/
+01:55:07	Warning: 	Found for localhost/category/beauty/?random-post=1
+01:55:07	Warning: 	File has moved from localhost/category/beauty/?random-post=1 to http://localhost/2023/07/24/new-hair-cut/
+01:55:07	Warning: 	Moved Permanently for localhost/?p=1116
+01:55:07	Warning: 	File has moved from localhost/?p=1116 to http://localhost/2023/07/24/ia-and-facebook/
+01:55:07	Warning: 	Found for localhost/2023/07/24/ia-and-facebook/?random-post=1
+01:55:07	Warning: 	File has moved from localhost/2023/07/24/ia-and-facebook/?random-post=1 to http://localhost/2023/07/23/peolpe-above-50-years/
+01:55:07	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://gmpg.org/xfn/11 -> C:/My Web Sites/LOCAL 2/gmpg.org/xfn/11.0.delayed
+01:55:07	Warning: 	link is probably looping, type unknown, aborting: https://gmpg.org/xfn/11
+01:55:09	Error: 	"Not Found" (404) at link localhost/2023/07/24/ia-and-facebook/fb-messenger:/share?app_id=5303202981&display=popup&link=http://localhost/2023/07/24/ia-and-facebook/&redirect_uri=http://localhost/2023/07/24/ia-and-facebook/ (from localhost/2023/07/24/ia-and-facebook/)
+01:55:09	Warning: 	Moved Permanently for localhost/?p=1113
+01:55:09	Warning: 	File has moved from localhost/?p=1113 to http://localhost/2023/07/24/youtube-and-facebook/
+01:55:09	Warning: 	Found for localhost/2023/07/24/youtube-and-facebook/?random-post=1
+01:55:09	Warning: 	File has moved from localhost/2023/07/24/youtube-and-facebook/?random-post=1 to http://localhost/2023/07/24/new-hair-cut/
+01:55:09	Error: 	"Not Found" (404) at link localhost/2023/07/24/youtube-and-facebook/fb-messenger:/share?app_id=5303202981&display=popup&link=http://localhost/2023/07/24/youtube-and-facebook/&redirect_uri=http://localhost/2023/07/24/youtube-and-facebook/ (from localhost/2023/07/24/youtube-and-facebook/)
+01:55:09	Warning: 	Moved Permanently for localhost/?p=1110
+01:55:09	Warning: 	File has moved from localhost/?p=1110 to http://localhost/2023/07/24/new-hair-cut/
+01:55:09	Warning: 	Found for localhost/2023/07/24/new-hair-cut/?random-post=1
+01:55:09	Warning: 	File has moved from localhost/2023/07/24/new-hair-cut/?random-post=1 to http://localhost/2023/07/24/youtube-and-facebook/
+01:55:09	Error: 	"Not Found" (404) at link localhost/2023/07/24/new-hair-cut/fb-messenger:/share?app_id=5303202981&display=popup&link=http://localhost/2023/07/24/new-hair-cut/&redirect_uri=http://localhost/2023/07/24/new-hair-cut/ (from localhost/2023/07/24/new-hair-cut/)
+01:55:09	Warning: 	Moved Permanently for localhost/?p=1107
+01:55:09	Warning: 	File has moved from localhost/?p=1107 to http://localhost/2023/07/24/advice-for-people/
+01:55:09	Warning: 	Found for localhost/2023/07/24/advice-for-people/?random-post=1
+01:55:09	Warning: 	File has moved from localhost/2023/07/24/advice-for-people/?random-post=1 to http://localhost/2023/07/24/advice-for-people/
+01:55:09	Error: 	"Not Found" (404) at link localhost/2023/07/24/advice-for-people/fb-messenger:/share?app_id=5303202981&display=popup&link=http://localhost/2023/07/24/advice-for-people/&redirect_uri=http://localhost/2023/07/24/advice-for-people/ (from localhost/2023/07/24/advice-for-people/)
+01:55:16	Warning: 	Moved Permanently for localhost/?p=1104
+01:55:16	Warning: 	File has moved from localhost/?p=1104 to http://localhost/2023/07/24/benifites-of-colagine/
+01:55:16	Warning: 	Found for localhost/2023/07/24/benifites-of-colagine/?random-post=1
+01:55:16	Warning: 	File has moved from localhost/2023/07/24/benifites-of-colagine/?random-post=1 to http://localhost/2023/07/23/peolpe-above-50-years/
+01:55:16	Error: 	"Not Found" (404) at link localhost/2023/07/24/benifites-of-colagine/fb-messenger:/share?app_id=5303202981&display=popup&link=http://localhost/2023/07/24/benifites-of-colagine/&redirect_uri=http://localhost/2023/07/24/benifites-of-colagine/ (from localhost/2023/07/24/benifites-of-colagine/)
+01:55:16	Warning: 	Moved Permanently for localhost/?p=1087
+01:55:16	Warning: 	File has moved from localhost/?p=1087 to http://localhost/2023/07/23/peolpe-above-50-years/
+01:55:16	Warning: 	Found for localhost/2023/07/23/peolpe-above-50-years/?random-post=1
+01:55:16	Warning: 	File has moved from localhost/2023/07/23/peolpe-above-50-years/?random-post=1 to http://localhost/2023/07/24/benifites-of-colagine/
+01:55:16	Error: 	"Not Found" (404) at link localhost/2023/07/23/peolpe-above-50-years/fb-messenger:/share?app_id=5303202981&display=popup&link=http://localhost/2023/07/23/peolpe-above-50-years/&redirect_uri=http://localhost/2023/07/23/peolpe-above-50-years/ (from localhost/2023/07/23/peolpe-above-50-years/)
+01:55:17	Warning: 	Found for localhost/author/admin/?random-post=1
+01:55:17	Warning: 	File has moved from localhost/author/admin/?random-post=1 to http://localhost/2023/07/24/youtube-and-facebook/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 36 seconds : 174 links scanned, 145 files written (24485875 bytes overall) [24873799 bytes received at 115156 bytes/sec], 2314 bytes transferred using HTTP compression in 1 files, ratio 100%, 3.2 requests per connection
+(19 errors, 52 warnings, 0 messages)
